@@ -1,7 +1,7 @@
 /**
  * @param {number} a
  * @param {number} b
- * @returns {number[]} Returns a pair of number as a sorted array (in an ascending order).
+ * @returns {number[]} Returns a pair of numbers as a sorted array (in an ascending order).
  */
 const swapToAsc = (a, b) => {
   if (b < a) {
